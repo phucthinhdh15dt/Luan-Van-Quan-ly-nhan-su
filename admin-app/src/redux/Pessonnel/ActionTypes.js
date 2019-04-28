@@ -1,0 +1,2 @@
+export const LIST_PERSONNEL_ALL='LIST_PERSONNEL_ALL';
+export const EDIT_PERSON='EDIT_PERSON';
